@@ -53,11 +53,14 @@
   </div>
   <br>
   <br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shawnarun&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
 <hr>
-
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shawnarun/shawnarun/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
