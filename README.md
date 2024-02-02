@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawnarun&show_icons=true&locale=en" alt="shawnarun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawnarun&" alt="shawnarun" /></p>
+
+![snake gif](https://github.com/Shawnarun/Shawnarun/blob/output/github-contribution-grid-snake.gif)
+
+
