@@ -29,8 +29,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,javascript,css,express,nextjs,cpp,java" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,javascript,css,express,nextjs,cpp,java,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,vscode,figma,spring" />
 
   </a>
 
